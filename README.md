@@ -22,6 +22,7 @@ Clearly document every step used to clean, filter, and prepare the dataset, incl
 1. Total Destruction Rate
 
 The Total Destruction Rate shows how often an aircraft was completely destroyed after an accident. It is calculated by dividing the number of total destruction (hull-loss) accidents by the total number of recorded accidents.
+
 2. Severe Injury Rate
 
 The Severe Injury Rate measures how many people on board suffered fatal or serious injuries during an accident. It is calculated by dividing the total number of fatal and serious injuries by the total number of people on board.
